@@ -2,6 +2,8 @@
 .idea/*
 venv*/*
 glue_data*/*
+apex*/*
+.circleci*/*
 
 # Initially taken from Github's Python gitignore file
 
